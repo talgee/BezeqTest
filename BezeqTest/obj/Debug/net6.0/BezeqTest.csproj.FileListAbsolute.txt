@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\bin\Debug\net6.0\BezeqTest.exe
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\bin\Debug\net6.0\BezeqTest.deps.json
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\bin\Debug\net6.0\BezeqTest.runtimeconfig.json
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\bin\Debug\net6.0\BezeqTest.dll
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\bin\Debug\net6.0\BezeqTest.pdb
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.AssemblyInfo.cs
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.dll
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\refint\BezeqTest.dll
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.pdb
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\BezeqTest.genruntimeconfig.cache
+C:\Users\dell\source\repos\BezeqTest\BezeqTest\obj\Debug\net6.0\ref\BezeqTest.dll
